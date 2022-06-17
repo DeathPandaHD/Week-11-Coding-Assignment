@@ -1,0 +1,27 @@
+body {
+    background-color: grey;
+    color:whitesmoke
+}
+
+
+.block {
+    height: 100px;
+    width: 100px;
+}
+
+.left {
+    border-right: 5px black solid;
+}
+
+.right {
+    border-left: 5px black solid;
+}
+
+.top {
+    border-bottom: 5px black solid;
+
+}
+
+.bottom {
+    border-top: 5px black solid;
+}
